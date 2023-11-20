@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poe-hideouts/static/css/main.073c9b0a.css",
+    "main.js": "/poe-hideouts/static/js/main.b9d2e475.js",
+    "static/js/787.f47347ec.chunk.js": "/poe-hideouts/static/js/787.f47347ec.chunk.js",
+    "index.html": "/poe-hideouts/index.html",
+    "main.073c9b0a.css.map": "/poe-hideouts/static/css/main.073c9b0a.css.map",
+    "main.b9d2e475.js.map": "/poe-hideouts/static/js/main.b9d2e475.js.map",
+    "787.f47347ec.chunk.js.map": "/poe-hideouts/static/js/787.f47347ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9d2e475.js"
+  ]
+}
